@@ -1,16 +1,29 @@
-### Hi there 👋
+### Hi there 👋, welcome to my GitHub profile!
 
-<!--
-**otezz/otezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm Seto. I build and break things 🛠️. I’m currently Head of Engineering at [Koltiva](https://www.koltiva.com/)
 
-Here are some ideas to get you started:
+<div align="center">
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api/top-langs?username=otezz&&layout=compact&langs_count=10&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs?username=otezz&&layout=compact&langs_count=10"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=otezz&&layout=compact&langs_count=10" />
+</picture>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=otezz&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=otezz&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=otezz&show_icons=true" />
+</picture>
+</div>
